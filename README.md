@@ -15,5 +15,5 @@
 
 ### 4. Web Aplikasi (Project Teman)
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8841b1b3-0e4f-43c0-b59d-d1edf45b3457" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a52d7ebf-8bac-4f57-bd1f-ea3f62377fef" />
 
